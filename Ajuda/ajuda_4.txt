@@ -1,0 +1,2 @@
+Escolha o arquivo teste que se deseja abrir. O arquivo tem a extensão .kans e se encontrae por
+padrão na pasta "Testes".

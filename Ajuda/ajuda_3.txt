@@ -1,0 +1,20 @@
+    Nome: Nome a ser utilizado para o teste a ser criado.
+
+    Executavel: Endereço do arquivo executável do jogo a ser testado. Apertar o botão "Procurar..." 
+
+inicia a busca nos diretórios.
+
+    Tipo: Seleção do tipo de teste. Segue a explicação de cada:
+        Vazio: Não envia nenhuma informação ao jogo testado, apenas coleta.
+
+        Leve: Define-se a quantidade de variáveis no campo "Variáveis" e então adiciona
+    um nome para cada uma delas. A ordem em que se é inserido o nome será a ordem em que os
+    valores das variáveis serão enviados para o jogo como argumentos de linha de comando.
+    Os valores serão definidos antes da excecução de cada sessão de teste.
+
+        Cenários: Defini-se a quantidade de variáveis no campo "Variáveis" e o número de cenários
+    em "Cenários". A ordem em que se é inserido o nome será a ordem em que os valores das
+    variáveis serão enviados para o jogo como argumentos de linha de comando. Cenários são
+    conjuntos de valores para cada variável e são usados quando já se sabe quais valores se deseja
+    serem testados. Uma vez definidos os cenários não terão seus valores modificados. A escolha
+    dos cenários pode ser tanto aleatória ou feita pelo testador.

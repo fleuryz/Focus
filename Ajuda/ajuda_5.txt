@@ -1,0 +1,16 @@
+Página de informações do teste aberto.
+
+    Caso o teste seja "Leve" deve-se adicionar os valores das variáveis a serem enviados ao jogo.
+
+    Caso o teste seja "Cenários" deve-se escolher qual cenário será utilizado ou se a escolha será
+aleatória.
+
+
+    O botão "Processar" realiza a identificação dos estados afetivos do jogador em todas as sessões
+de teste já executadas no teste aberto. Sessões já processadas não serão processadas novamente.
+Esse processo pode levar vários minutos.
+
+    O botão "Exportar" acessa a página com opções de exportação dos dados coletados no teste.
+
+    O botão "Executar" inicia o gravamento da câmera, da tela principal do computador e inicia o
+jogo a ser testado.

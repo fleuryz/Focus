@@ -1,0 +1,2 @@
+Escolha o arquivo executável do jogo que se deseja abrir. O arquivo se encontra por padrão na
+pasta "Jogos".

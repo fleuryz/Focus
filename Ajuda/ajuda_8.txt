@@ -1,0 +1,17 @@
+Opções de exportação:
+
+    XML: Exporta um arquivo .csv com todos os dados adquiridos em todas as sessões testadas.
+As informações contidas são a hora de medição de cada variável analisada, a sessão referência 
+e então o valor de cada uma das variáveis. Para os estados afetivos o valor equivale a
+probabilidade de qual o estado afetivo da pessoa no momento.
+
+
+    Gráfico: Exporta uma imagem com os gráficos da variação de cada variável analisada de apenas
+uma sessão. Deve-se escolher quais estados afetivos estarão presentes no gráfico de saída, estados em verde estão selecionados. Deve-se lembrar que todos os dados de variáveis enviadas pelo jogo estarão presentes e o máximo de dados no gráfico, somando variáveis do jogo e estados afetivos, não pode ultrapassar de 8 valores analisados. 
+
+
+    Vídeo: Exporta um arquivo de vídeo .avi com a gravação do rosto do jogador, da tela do jogo e
+também um gráfico dos valores de cada estado afetivo em cada momento do vídeo.
+
+
+Todos os arquivos estão na pasta "Saída" dentro da pasta do programa.

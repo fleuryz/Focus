@@ -1,0 +1,20 @@
+    Testes são arquivos para unir dados de testes específicos em quantas sessões forem necessárias.
+Um teste é definido por seu nome, jogo a ser executado e a forma com que envia informações 
+para o jogo. Recomenda-se utilizarum arquivo de teste para cada análise a ser feita, logo, 
+define-se o que se procura descobrir e também como antes de criar o arquivo de teste. 
+    Um arquivo de texto com o nome "README" deve ser inserido na pasta onde se encontra o
+executável do jogo para instruir o testador sobre que variável o jogo recebe e em que ordem.
+
+    Segue uma lista de passos recomendados para a criação de um teste:
+
+1- Definir qual é o objetivo que se deseja alcançar;
+2- Descobrir qual ação do jogo pretende causar esse objetivo;
+3- Relacionar qual reação do jogador se relaciona com o objetivo;
+4- Relacionar quais variáveis do jogo se relacionam com a ação do jogo, as chamaremos de Variáveis Dependentes (VD);
+5- Encontrar quais variáveis do jogo se relacionam com o estado do jogador para alcançar o objetivo, as chamaremos de Variáveis de Referência (VR);
+6- Modificar o jogo para receber possíveis valores das VDs;
+8- odificar o jogo para escrever no "standard out" apenas uma sequência de mensagens com o padrão: "Hora atual - Nome da VR - Valor atual da VR";
+9- Realizar os testes.
+
+O botão "Criar" cria um novo aquivo de teste.
+Já o botão "Abrir" carrega um arquivo de teste já criado.
